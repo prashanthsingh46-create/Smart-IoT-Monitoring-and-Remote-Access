@@ -22,7 +22,9 @@ Node-RED
 Tailscale
 Linux
 System Architecture
-(Add Architecture Image Here)
+
+<img width="1536" height="1024" alt="IoT Monitoring System Architecture" src="https://github.com/user-attachments/assets/45caadf2-8983-4b98-9ca5-b8c44f10bd16" />
+
 
 Future Improvements
 Grafana Dashboard
